@@ -71,3 +71,4 @@ F_allowCrewInImmobile = compileFinal preprocessFileLineNumbers "scripts\shared\f
 F_isRadio = compileFinal preprocessFileLineNumbers "scripts\shared\functions\F_kp_isRadio.sqf";
 F_createClearance = compileFinal preprocessFileLineNumbers "scripts\shared\functions\F_kp_createClearance.sqf";
 F_getSaveData = compileFinal preprocessFileLineNumbers "scripts\shared\functions\F_kp_getSaveData.sqf"
+F_doSave = compileFinal preprocessFileLineNumbers "scripts\shared\functions\F_kp_doSave.sqf"
